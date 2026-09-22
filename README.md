@@ -2,11 +2,18 @@
 
 A Convolutional Neural Network (CNN) built with PyTorch that classifies images from the CIFAR-10 dataset into 10 categories, achieving ~**87.75% validation accuracy** in 25 epochs.
 
----
+
+## Result
+
+The submitted Kaggle prediction achieved **0.90050 accuracy**.
 
 ## 📌 Description
 
 This project implements a deep CNN trained on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset — a standard benchmark dataset containing 60,000 32×32 color images across 10 classes. The model uses a VGG-style architecture with three convolutional blocks, batch normalization, dropout regularization, and fully connected layers.
+
+## Demo
+
+![Project demo](assets/demo.gif)
 
 ---
 
